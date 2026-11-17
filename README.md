@@ -1,5 +1,5 @@
 <a href="https://moonryx.com">
-  <img src="assets/moonryx.svg" width="100%" alt="Moonryx — Te ganó la curiosidad. Moonryx es mi pasatiempo: lo que construyo cuando una idea no me deja en paz.">
+  <img src="assets/moonryx.svg" width="100%" alt="Moonryx — Te ganó la curiosidad. Moonryx es mi pasatiempo.">
 </a>
 
 <br>
