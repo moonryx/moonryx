@@ -1,11 +1,11 @@
 <a href="https://moonryx.com">
-  <img src="assets/moonryx.svg" width="100%" alt="Moonryx — Te ganó la curiosidad. Moonryx es mi pasatiempo: lo que construyo cuando una idea no me deja en paz.">
+  <img src="assets/moonryx.svg" width="100%" alt="Moonryx — Te ganó la curiosidad. Moonryx es mi pasatiempo.">
 </a>
 
 <br>
 
 <a href="https://monim.moonryx.com">
-  <img src="assets/monimusic.svg" width="100%" alt="MoniMusic — YouTube Music, con tu estilo. Proyecto 01, gratis.">
+  <img src="assets/monimusic.svg" width="100%" alt="Proyectos: MoniMusic">
 </a>
 
 <p align="center">
